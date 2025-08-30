@@ -9,8 +9,39 @@
     <atom:link href="https://kaatenn.site/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description></description>
-    <pubDate>Sat, 30 Aug 2025 13:29:39 GMT</pubDate>
+    <pubDate>Sat, 30 Aug 2025 14:47:59 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>GDB 和 MacOS</title>
+      <link>https://kaatenn.site/posts/77531544/</link>
+      <guid>https://kaatenn.site/posts/77531544/</guid>
+      <pubDate>Sat, 30 Aug 2025 14:47:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h1 id=&quot;gdb-和-macos&quot;&gt;GDB 和 MacOS&lt;/h1&gt;
+&lt;p&gt;MacOS 的适配这块确实给我气得不轻，LLDB 我又不想用（那谁让 LLDB
+哪怕是本地 Debug 都给我上传到 LLDB</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://kaatenn.site/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/">计算机</category>
+      
+      
+      <category domain="https://kaatenn.site/tags/Mac/">Mac</category>
+      
+      <category domain="https://kaatenn.site/tags/%E7%BD%91%E5%AE%89/">网安</category>
+      
+      
+      <comments>https://kaatenn.site/posts/77531544/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Hexo 和 Wordpress</title>
@@ -36,37 +67,6 @@ Hexo 得了。（当然我也不会说是因为</description>
       
       
       <category domain="https://kaatenn.site/tags/%E6%9D%82%E8%B0%88/">杂谈</category>
-      
-      
-      <comments>https://kaatenn.site/posts/77531544/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>GDB 和 MacOS</title>
-      <link>https://kaatenn.site/posts/77531544/</link>
-      <guid>https://kaatenn.site/posts/77531544/</guid>
-      <pubDate>Tue, 22 Jul 2025 16:05:00 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;h1 id=&quot;gdb-和-macos&quot;&gt;GDB 和 MacOS&lt;/h1&gt;
-&lt;p&gt;MacOS 的适配这块确实给我气得不轻，LLDB 我又不想用（那谁让 LLDB
-哪怕是本地 Debug 都给我上传到 LLDB</description>
-          
-        
-      
-      
-      
-      
-      <category domain="https://kaatenn.site/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/">计算机</category>
-      
-      
-      <category domain="https://kaatenn.site/tags/Mac/">Mac</category>
-      
-      <category domain="https://kaatenn.site/tags/%E7%BD%91%E5%AE%89/">网安</category>
       
       
       <comments>https://kaatenn.site/posts/77531544/#disqus_thread</comments>

@@ -6,7 +6,7 @@
   <link href="https://kaatenn.site/atom.xml" rel="self"/>
   
   <link href="https://kaatenn.site/"/>
-  <updated>2025-08-30T13:29:39.975Z</updated>
+  <updated>2025-08-30T14:47:59.403Z</updated>
   <id>https://kaatenn.site/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>GDB 和 MacOS</title>
+    <link href="https://kaatenn.site/posts/77531544/"/>
+    <id>https://kaatenn.site/posts/77531544/</id>
+    <published>2025-08-30T14:47:00.000Z</published>
+    <updated>2025-08-30T14:47:59.403Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;gdb-和-macos&quot;&gt;GDB 和 MacOS&lt;/h1&gt;
+&lt;p&gt;MacOS 的适配这块确实给我气得不轻，LLDB 我又不想用（那谁让 LLDB
+哪怕是本地 Debug 都给我上传到 LLDB</summary>
+        
+      
+    
+    
+    
+    <category term="计算机" scheme="https://kaatenn.site/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
+    
+    
+    <category term="Mac" scheme="https://kaatenn.site/tags/Mac/"/>
+    
+    <category term="网安" scheme="https://kaatenn.site/tags/%E7%BD%91%E5%AE%89/"/>
+    
+  </entry>
   
   <entry>
     <title>Hexo 和 Wordpress</title>
@@ -41,35 +70,6 @@ Hexo 得了。（当然我也不会说是因为</summary>
     
     
     <category term="杂谈" scheme="https://kaatenn.site/tags/%E6%9D%82%E8%B0%88/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>GDB 和 MacOS</title>
-    <link href="https://kaatenn.site/posts/77531544/"/>
-    <id>https://kaatenn.site/posts/77531544/</id>
-    <published>2025-07-22T16:05:00.000Z</published>
-    <updated>2025-08-30T14:41:22.136Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;gdb-和-macos&quot;&gt;GDB 和 MacOS&lt;/h1&gt;
-&lt;p&gt;MacOS 的适配这块确实给我气得不轻，LLDB 我又不想用（那谁让 LLDB
-哪怕是本地 Debug 都给我上传到 LLDB</summary>
-        
-      
-    
-    
-    
-    <category term="计算机" scheme="https://kaatenn.site/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
-    
-    
-    <category term="Mac" scheme="https://kaatenn.site/tags/Mac/"/>
-    
-    <category term="网安" scheme="https://kaatenn.site/tags/%E7%BD%91%E5%AE%89/"/>
     
   </entry>
   
