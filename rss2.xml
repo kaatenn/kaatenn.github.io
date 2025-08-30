@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>紫幕的摸鱼日常~</title>
+    <link>https://kaatenn.site/</link>
+    
+    <atom:link href="https://kaatenn.site/rss2.xml" rel="self" type="application/rss+xml"/>
+    
+    <description></description>
+    <pubDate>Sat, 30 Aug 2025 13:29:39 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Hexo 和 Wordpress</title>
+      <link>https://kaatenn.site/posts/77531544/</link>
+      <guid>https://kaatenn.site/posts/77531544/</guid>
+      <pubDate>Tue, 22 Jul 2025 16:05:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h1 id=&quot;hexo-和-wordpress&quot;&gt;Hexo 和 Wordpress&lt;/h1&gt;
+&lt;p&gt;诶我草 Wordpress 怎么这么坏啊。&lt;/p&gt;
+&lt;p&gt;其实我就是被 Wordpress 整烦了，服务器性能又没这么好，干脆换静态的
+Hexo 得了。（当然我也不会说是因为</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://kaatenn.site/categories/%E6%9D%82%E8%B0%88/">杂谈</category>
+      
+      
+      <category domain="https://kaatenn.site/tags/%E6%9D%82%E8%B0%88/">杂谈</category>
+      
+      
+      <comments>https://kaatenn.site/posts/77531544/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>GDB 和 MacOS</title>
+      <link>https://kaatenn.site/posts/77531544/</link>
+      <guid>https://kaatenn.site/posts/77531544/</guid>
+      <pubDate>Tue, 22 Jul 2025 16:05:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h1 id=&quot;gdb-和-macos&quot;&gt;GDB 和 MacOS&lt;/h1&gt;
+&lt;p&gt;MacOS 的适配这块确实给我气得不轻，LLDB 我又不想用（那谁让 LLDB
+哪怕是本地 Debug 都给我上传到 LLDB</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://kaatenn.site/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/">计算机</category>
+      
+      
+      <category domain="https://kaatenn.site/tags/Mac/">Mac</category>
+      
+      <category domain="https://kaatenn.site/tags/%E7%BD%91%E5%AE%89/">网安</category>
+      
+      
+      <comments>https://kaatenn.site/posts/77531544/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>考研政治的第零道大题——从 25 张宇考研数学说起</title>
+      <link>https://kaatenn.site/posts/61197/</link>
+      <guid>https://kaatenn.site/posts/61197/</guid>
+      <pubDate>Sat, 10 May 2025 03:51:39 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h1 id=&quot;前言&quot;&gt;前言&lt;/h1&gt;
+&lt;p&gt;阅读本文前，请了解以下事项：&lt;/p&gt;
+&lt;ol</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://kaatenn.site/categories/%E6%9D%82%E8%B0%88/">杂谈</category>
+      
+      
+      <category domain="https://kaatenn.site/tags/%E6%9D%82%E8%B0%88/">杂谈</category>
+      
+      
+      <comments>https://kaatenn.site/posts/61197/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>关于 Minecraft 中玩家常态最大移动速度的求解</title>
+      <link>https://kaatenn.site/posts/41232/</link>
+      <guid>https://kaatenn.site/posts/41232/</guid>
+      <pubDate>Mon, 20 Jan 2025 11:05:26 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;先给出结论，常态下玩家的最大移动速度是 &lt;span class=&quot;math inline&quot;&gt;4.317&lt;em&gt;m&lt;/em&gt;/&lt;em&gt;s&lt;/em&gt;&lt;/span&gt;，该结论在 MCWiki
+上已有记载，本文主要是对其结论进行证明。&lt;/p&gt;
+&lt;p&gt;特别鸣谢：&lt;a</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://kaatenn.site/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/">计算机</category>
+      
+      
+      <category domain="https://kaatenn.site/tags/MC/">MC</category>
+      
+      
+      <comments>https://kaatenn.site/posts/41232/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>蒙特卡洛积分的证明</title>
+      <link>https://kaatenn.site/posts/17225/</link>
+      <guid>https://kaatenn.site/posts/17225/</guid>
+      <pubDate>Mon, 30 Dec 2024 14:06:30 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h2 id=&quot;背景&quot;&gt;背景&lt;/h2&gt;
+&lt;p&gt;在 B 站计算机图形学基础教程 &lt;a</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://kaatenn.site/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/">计算机</category>
+      
+      
+      <category domain="https://kaatenn.site/tags/%E5%9B%BE%E5%BD%A2%E5%AD%A6/">图形学</category>
+      
+      <category domain="https://kaatenn.site/tags/%E6%95%B0%E5%AD%A6/">数学</category>
+      
+      
+      <comments>https://kaatenn.site/posts/17225/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>紫幕的摸鱼日常~</title>
+      <link>https://kaatenn.site/posts/59182/</link>
+      <guid>https://kaatenn.site/posts/59182/</guid>
+      <pubDate>Wed, 20 Nov 2024 15:48:57 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;紫幕的摸鱼日常建站大成功……嘛？事实是，上一个建的站因为太久没管+备份爆炸导致啥都没了==。&lt;/p&gt;
+&lt;p&gt;但！好消息是，上一个站除了建站文章意外啥——都没有。为什么？因为考研半年没打理自己的个人站。&lt;/p&gt;
+&lt;p&gt;嘛不管咋说，这里是紫幕，一个啥都有点兴趣但啥都不会的也不知</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://kaatenn.site/categories/%E6%9D%82%E8%B0%88/">杂谈</category>
+      
+      
+      <category domain="https://kaatenn.site/tags/%E6%9D%82%E8%B0%88/">杂谈</category>
+      
+      
+      <comments>https://kaatenn.site/posts/59182/#disqus_thread</comments>
+      
+    </item>
+    
+  </channel>
+</rss>
